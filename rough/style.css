@@ -1,0 +1,15 @@
+#first{
+    background-color: red;
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+#second{
+    background-color: green;
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+}

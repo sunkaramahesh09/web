@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+.box-container{
+    display: flex;
+    margin-left: 38%;
+}
+
+.btn{
+    width: 100px;
+    height: 100px;
+    border:2px solid black;
+}
+
+.test{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+
+.userColorOne{
+    background-color: aqua;
+}
+
+.userColorTwo{
+    background-color: red;
+}
